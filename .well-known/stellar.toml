@@ -73,7 +73,7 @@ code="CHEM"
 issuer="" 
 status="live" 
 name="Stock of CHEM" 
-
+desc="1 CHEM Token in GOPE STOCK MARKET is equivalent with 1 Lot of CHEM Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/chem.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -88,7 +88,7 @@ code="DEWI"
 issuer="" 
 status="live" 
 name="Stock of DEWI" 
-
+desc="1 DEWI Token in GOPE STOCK MARKET is equivalent with 1 Lot of DEWI Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/dewi.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
