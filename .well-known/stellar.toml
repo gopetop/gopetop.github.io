@@ -36,6 +36,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="SWID"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code="TRGU" 
@@ -50,6 +51,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock" 
 anchor_asset="TRGU" 
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money." 
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -64,6 +66,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -78,6 +81,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -92,6 +96,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -106,6 +111,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -120,6 +126,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -134,6 +141,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -148,6 +156,7 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
 
 [[CURRENCIES]]
 code=""
@@ -162,6 +171,9 @@ is_asset_anchored="true"
 anchor_asset_type="stock"
 anchor_asset="4 digits stock or 3-12 digits fiat code"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+fixed_number=
+
+
 
 
 
