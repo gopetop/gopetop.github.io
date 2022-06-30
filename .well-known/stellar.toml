@@ -43,7 +43,7 @@ code="TRGU"
 issuer="" 
 status="live" 
 name="Stock of TRGU" 
-
+desc="1 TRGU Token in GOPE STOCK MARKET is equivalent with 1 Lot of TRGU Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/trgu.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -58,7 +58,7 @@ code="ARKO"
 issuer="" 
 status="live" 
 name="Stock of ARKO" 
-
+desc="1 ARKO Token in GOPE STOCK MARKET is equivalent with 1 Lot of ARKO Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/arko.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
