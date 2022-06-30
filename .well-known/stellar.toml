@@ -5,7 +5,7 @@ ACCOUNTS=["",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="GOPE STOCKS MARKET" 
+ORG_NAME="GOPE STOCK MARKET" 
 ORG_URL="https://gope.top" 
 ORG_LOGO="https://gope.top/logo/gope.png" 
 
@@ -14,7 +14,7 @@ code="RUPIAH"
 issuer="" 
 status="live" 
 name="RUPIAH" 
-desc="RUPIAH is base currency in GOPE STOCKS MARKET. Please visit https://gope.top for more details." 
+desc="RUPIAH is base currency in GOPE STOCK MARKET. Please visit https://gope.top for more details." 
 display_decimals=0 
 image="https://gope.top/logo/rupiah.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks (in Indonesia Stock Exchange) via Stellar Blockchain, then buy this token as base currency to enter and exit from GOPE STOCKS MARKET." 
@@ -24,18 +24,18 @@ anchor_asset="RUPIAH"
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money." 
 
 [[CURRENCIES]]
-code="SWID"
-issuer=""
-status="live"
-name="Stock of SWID"
-desc=""
-display_decimals=0
-image="https://gope.top/logo/swid.png"
-conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own."
-is_asset_anchored="true"
-anchor_asset_type="stock"
-anchor_asset="SWID"
-redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
+code="SWID" 
+issuer="" 
+status="live" 
+name="Stock of SWID" 
+desc="1 Token SWID in GOPE STOCK MARKET equivalent with 1 Lot of Stock of SWID in Indonesia Stock Exchange." 
+display_decimals=0 
+image="https://gope.top/logo/swid.png" 
+conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
+is_asset_anchored="true" 
+anchor_asset_type="stock" 
+anchor_asset="SWID" 
+redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money." 
 fixed_number=3400000 
 
 [[CURRENCIES]]
@@ -43,7 +43,7 @@ code="TRGU"
 issuer="" 
 status="live" 
 name="Stock of TRGU" 
-desc="" 
+desc="1 Token TRGU in GOPE STOCK MARKET equivalent with 1 Lot of Stock of TRGU in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/trgu.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
