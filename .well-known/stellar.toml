@@ -1,8 +1,8 @@
 FEDERATION_SERVER="https://api.stellar.org/federation"
 
-ACCOUNTS=["",
-""
-]
+ACCOUNTS=["GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE",
+          "GAVESIVSOJFXDVON553MLM553X63H2QI4M5F5U6YQTJ5JLRI66DSGOPE"
+         ]
 
 [DOCUMENTATION]
 ORG_NAME="GOPE STOCK MARKET" 
@@ -11,7 +11,7 @@ ORG_LOGO="https://gope.top/logo/gope.png"
 
 [[CURRENCIES]]
 code="GULA" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of GULA" 
 desc="1 GULA Token in GOPE STOCK MARKET is equivalent with 1 Lot of GULA Stock in Indonesia Stock Exchange." 
@@ -26,7 +26,7 @@ fixed_number=2140725
 
 [[CURRENCIES]]
 code="KRYA" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of KRYA" 
 desc="1 KRYA Token in GOPE STOCK MARKET is equivalent with 1 Lot of KRYA Stock in Indonesia Stock Exchange." 
@@ -41,7 +41,7 @@ fixed_number=3250000
 
 [[CURRENCIES]]
 code="HATM" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of HATM" 
 desc="1 HATM Token in GOPE STOCK MARKET is equivalent with 1 Lot of HATM Stock in Indonesia Stock Exchange." 
@@ -56,7 +56,7 @@ fixed_number=12200000
 
 [[CURRENCIES]]
 code="HILL" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of HILL" 
 desc="1 HILL Token in GOPE STOCK MARKET is equivalent with 1 Lot of HILL Stock in Indonesia Stock Exchange." 
@@ -71,7 +71,7 @@ fixed_number=22115000
 
 [[CURRENCIES]]
 code="AXIO" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of AXIO" 
 desc="1 AXIO Token in GOPE STOCK MARKET is equivalent with 1 Lot of AXIO Stock in Indonesia Stock Exchange." 
@@ -86,7 +86,7 @@ fixed_number=10401265
 
 [[CURRENCIES]]
 code="DEWI" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of DEWI" 
 desc="1 DEWI Token in GOPE STOCK MARKET is equivalent with 1 Lot of DEWI Stock in Indonesia Stock Exchange." 
@@ -101,7 +101,7 @@ fixed_number=7000000
 
 [[CURRENCIES]]
 code="CHEM" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of CHEM" 
 desc="1 CHEM Token in GOPE STOCK MARKET is equivalent with 1 Lot of CHEM Stock in Indonesia Stock Exchange." 
@@ -116,7 +116,7 @@ fixed_number=5000000
 
 [[CURRENCIES]]
 code="ARKO" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of ARKO" 
 desc="1 ARKO Token in GOPE STOCK MARKET is equivalent with 1 Lot of ARKO Stock in Indonesia Stock Exchange." 
@@ -131,7 +131,7 @@ fixed_number=5799000
 
 [[CURRENCIES]]
 code="TRGU" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of TRGU" 
 desc="1 TRGU Token in GOPE STOCK MARKET is equivalent with 1 Lot of TRGU Stock in Indonesia Stock Exchange." 
@@ -146,7 +146,7 @@ fixed_number=15000000
 
 [[CURRENCIES]]
 code="SWID" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="Stock of SWID" 
 desc="1 SWID Token in GOPE STOCK MARKET is equivalent with 1 Lot of SWID Stock in Indonesia Stock Exchange." 
@@ -161,7 +161,7 @@ fixed_number=3400000
 
 [[CURRENCIES]]
 code="RUPIAH" 
-issuer="" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
 status="live" 
 name="RUPIAH" 
 desc="RUPIAH is base currency in GOPE STOCK MARKET. Please visit https://gope.top for more details." 
