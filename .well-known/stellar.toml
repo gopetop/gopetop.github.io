@@ -103,7 +103,7 @@ code="AXIO"
 issuer="" 
 status="live" 
 name="Stock of AXIO" 
-
+desc="1 AXIO Token in GOPE STOCK MARKET is equivalent with 1 Lot of AXIO Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/axio.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -118,7 +118,7 @@ code="HILL"
 issuer="" 
 status="live" 
 name="Stock of HILL" 
-
+desc="1 HILL Token in GOPE STOCK MARKET is equivalent with 1 Lot of HILL Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/hill.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -133,7 +133,7 @@ code="HATM"
 issuer="" 
 status="live" 
 name="Stock of HATM" 
-
+desc="1 HATM Token in GOPE STOCK MARKET is equivalent with 1 Lot of HATM Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/hatm.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -148,7 +148,7 @@ code="KRYA"
 issuer="" 
 status="live" 
 name="Stock of KRYA" 
-
+desc="1 KRYA Token in GOPE STOCK MARKET is equivalent with 1 Lot of KRYA Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/krya.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
@@ -163,7 +163,7 @@ code="GULA"
 issuer="" 
 status="live" 
 name="Stock of GULA" 
-
+desc="1 GULA Token in GOPE STOCK MARKET is equivalent with 1 Lot of GULA Stock in Indonesia Stock Exchange." 
 display_decimals=0 
 image="https://gope.top/logo/gula.png" 
 conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
