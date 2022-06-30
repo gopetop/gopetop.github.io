@@ -132,7 +132,7 @@ fixed_number=22115000
 code="HATM" 
 issuer="" 
 status="live" 
-name="" 
+name="Stock of HATM" 
 desc="" 
 display_decimals=0 
 image="https://gope.top/logo/hatm.png" 
@@ -144,34 +144,34 @@ redemption_instructions="Wait until IPO running at least 7 working days (please 
 fixed_number=12200000 
 
 [[CURRENCIES]]
-code=""
-issuer=""
-status="live"
-name=""
-desc=""
-display_decimals=0
-image=""
-conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own."
-is_asset_anchored="true"
-anchor_asset_type="stock"
-anchor_asset="4 digits stock or 3-12 digits fiat code"
-redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
-fixed_number=
+code="KRYA" 
+issuer="" 
+status="live" 
+name="Stock of KRYA" 
+desc="" 
+display_decimals=0 
+image="https://gope.top/logo/krya.png" 
+conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
+is_asset_anchored="true" 
+anchor_asset_type="stock" 
+anchor_asset="KRYA" 
+redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money." 
+fixed_number=3250000 
 
 [[CURRENCIES]]
-code=""
-issuer=""
-status="live"
-name=""
-desc=""
-display_decimals=0
-image=""
-conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own."
-is_asset_anchored="true"
-anchor_asset_type="stock"
-anchor_asset="4 digits stock or 3-12 digits fiat code"
+code="GULA" 
+issuer="" 
+status="live" 
+name="Stock of GULA" 
+desc="" 
+display_decimals=0 
+image="https://gope.top/logo/gula.png" 
+conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
+is_asset_anchored="true" 
+anchor_asset_type="stock" 
+anchor_asset="GULA" 
 redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money."
-fixed_number=
+fixed_number=2140725 
 
 
 
