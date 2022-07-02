@@ -1,0 +1,14 @@
+[[CURRENCIES]]
+code="GOPE" 
+issuer="GAEZRAJSUS7PGI3R5AUI5RHTJ76AHWGIIIP2APGV3IG7LALXWP36GOPE" 
+status="live" 
+name="Internal Stock of GOPE" 
+desc="1 GOPE Token in GOPE STOCK MARKET is equivalent with 10.000 RUPIAH." 
+display_decimals=0 
+image="https://gope.top/logo/swid.png" 
+conditions="GOPE Token is made for investors who will invest to GOPE STOCK MARKET with dividends compensation 3% monthly." 
+is_asset_anchored=true 
+anchor_asset_type="stock" 
+anchor_asset="GOPE" 
+redemption_instructions="GOPE STOCK MARKET will be share dividends regularly and transfer them directly to token holder wallets (if hold this token)." 
+fixed_number=10000000 
