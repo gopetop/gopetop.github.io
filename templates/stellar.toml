@@ -11,4 +11,11 @@ is_asset_anchored=true
 anchor_asset_type="stock" 
 anchor_asset="GOPE" 
 redemption_instructions="GOPE STOCK MARKET will be share dividends regularly and transfer them directly to token holder wallets (if hold this token for at least 12 months)." 
-fixed_number=10000000
+fixed_number=10000000 
+
+
+
+
+
+
+
